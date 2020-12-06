@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomee>
+    <Resource id="jdbc/my_blog_datasource" type="javax.sql.DataSource">
+        JdbcDriver = org.postgresql.Driver
+        JdbcUrl = jdbc:postgresql://db:5432/blog
+<!--        db => alias of docker postgres-->
+<!--        JdbcUrl = jdbc:postgresql://172.19.0.1:5432/blog-->
+<!--        JdbcUrl = jdbc:postgresql://172.18.0.1:5432/blog-->
+<!--        JdbcUrl = jdbc:postgresql://localhost/blog-->
+        UserName = mybloguser
+        Password = mypass
+        jtaManaged = true
+    </Resource>
+</tomee>

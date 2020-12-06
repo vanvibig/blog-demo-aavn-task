@@ -1,0 +1,24 @@
+https://www.tomitribe.com/blog/crud-with-tomee-microprofile-and-rest/
+https://stackoverflow.com/questions/37482716/using-docker-to-launch-web-app-cant-connect-to-postgresql-db
+https://unix.stackexchange.com/questions/566456/why-i-cant-connect-to-postgres-in-docker/566471
+// test chung network, link
+
+học 1 khóa học về docker (những phần quan trọng)
+how container communication together
+
+search with google
+    docker postgres + flask
+    docker postgres + java
+    docker postgres + node
+
+https://hub.docker.com/_/tomee
+https://gitlab.htl-leonding.ac.at/Eisserer/jpadockerjenkins/commit/92b134d867334a65ce4b27119931d9b030a1e381
+https://github.com/payara/docker-payaraserver-full/issues/69
+https://github.com/38leinaD/jee-samples/blob/master/datasource-definition/cars/docker-compose.payara.yml
+https://stackoverflow.com/questions/64849939/how-do-i-install-postgresql-on-a-payara-docker-container
+https://hub.docker.com/r/bongladesch/payara
+
+success here
+http://tomee-openejb.979440.n4.nabble.com/Unable-to-deploy-Java-EE-war-on-TomEE-8-M2-Predeployment-of-PersistenceUnit-failed-td4689917.html
+
+https://github.com/OKaluzny/spring-boot-docker-postgres/blob/master/docker-compose.yml
